@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarea 1</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="programarSi">Si</string>
+    <string name="programarNo">No</string>
+    <string name="cbtnJava">Java</string>
+    <string name="cbtnJS">JS</string>
+    <string name="cbtnPython">Python</string>
+    <string name="cbtnGo">Go Land</string>
+    <string name="cbtnC">C #</string>
+    <string name="cbtnCmasmas">C/C++</string>
+    <string name="date">Date</string>
+</resources>
