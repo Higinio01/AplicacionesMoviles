@@ -1,0 +1,7 @@
+En este proyecto, hemos utilizado las tecnologías de ViewModel, Room Database y LiveData para gestionar y mostrar datos de manera eficiente en una aplicación Android. A lo largo del desarrollo, la comprensión de estos conceptos fue facilitada en gran medida por las explicaciones proporcionadas en clase.
+
+Sin embargo, durante la fase de modificación y eliminación de datos, me enfrenté a desafíos que resultaron en cierta complejidad. En esta etapa, me encontré con varios errores que dificultaron la actualización y eliminación adecuada de la información en la base de datos. Estos problemas me llevaron a investigar y depurar la lógica de mi código.
+
+Uno de los desafíos clave fue asegurarme de que los datos se actualizaran correctamente en la base de datos después de realizar modificaciones, así como garantizar que los registros se eliminaran de manera efectiva cuando fuera necesario. Este proceso implicó una cuidadosa revisión de mi implementación y la búsqueda de soluciones adecuadas.
+
+A través de la resolución de problemas y el análisis detenido de mi código, logré superar los obstáculos y finalizar con éxito la tarea asignada. Esta experiencia me permitió adquirir un conocimiento más profundo de las tecnologías utilizadas y desarrollar mis habilidades de depuración y resolución de problemas en el contexto de la programación Android.
