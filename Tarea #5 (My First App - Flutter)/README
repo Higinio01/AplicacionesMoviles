@@ -1,0 +1,5 @@
+Durante la construcción de la aplicación, tuvimos algunos problemillas con la carga de imágenes desde internet. Resulta que la imagen que queríamos usar tenía un problema con su certificado de seguridad, lo que nos impedía mostrarla directamente.
+
+Además, queríamos que al presionar el botón, la imagen y el texto cambiaran. Pero no queríamos que fuera un lío confuso, así que hicimos que volviera al estado original cuando se presiona de nuevo. También nos aseguramos de que todo se vea bonito y suave con algunas animaciones chulas cuando ocurren estos cambios.
+
+Para que el código sea fácil de entender y de mantener, lo organizamos de manera ordenada y dividimos las diferentes partes en secciones lógicas. Esto nos ayudará a agregar más cosas al proyecto en el futuro sin que se convierta en un lío difícil de entender.
